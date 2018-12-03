@@ -1,0 +1,51 @@
+1. Output to screen:
+2. Output to file:
+3. Quit
+1
+Enter phrase:
+thiere is something here
+Enter a character for the border:
+$
+Enter the justification that you want(1 = center, 2 = left, 3 = right)
+2
+$$$$$$$$$$$$
+$there     $
+$is        $
+$something $
+$here      $
+$          $
+$$$$$$$$$$$$
+1. Output to screen:
+2. Output to file:
+3. Quit
+1
+Enter phrase:
+something here there is something here
+Enter a character for the border:
+@
+Enter the justification that you want(1 = center, 2 = left, 3 = right)
+3
+@@@@@@@@@@@@
+@     there@
+@        is@
+@ something@
+@      here@
+@          @
+@@@@@@@@@@@@
+1. Output to screen:
+2. Output to file:
+3. Quit
+2
+Enter name of a file:
+newrframeNb
+Enter phrase:
+this is going to be in a file
+Enter character for border:
+*
+Enter the justification that you want(1 = center, 2 = left, 3 = right)
+1
+1. Output to screen:
+2. Output to file:
+3. Quit
+3
+Have a nice day!
